@@ -9,7 +9,7 @@ python = "^3.8"
 Jinja2 = "^3.0.2"
 Werkzeug = "^2.0.0"
 boto3 = "^1.20.0"
-oneq = { version = "^2.0.2", source = "biocad-gitlab" }
+oneq = { version = "^4.2.2", source = "biocad-gitlab" }
 docxtpl = "^0.14.1"
 
 [tool.poetry.dev-dependencies]
